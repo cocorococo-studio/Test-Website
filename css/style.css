@@ -1,0 +1,62 @@
+.nav{
+	height: 50px;
+	background: black;	
+}
+.nav div{
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+}
+.nav ul{
+	position: absolute;
+	right: 5px;
+}
+.nav ul li{
+	display: inline-block;
+}
+.nav ul li a{
+	color: white;
+	padding: 5px;
+}
+
+
+.home{
+	background: url("../images/homeBack.jpeg");
+	background-size: cover;
+	height: 100vh;
+}
+
+
+.home .text-container{
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 90vh;
+
+}
+
+
+.home .text-container h1{
+	text-align: center;
+}
+
+
+.home .text-container p{
+	text-align: justify;
+	font-family: 'Lato', sans-serif;
+}
+
+
+{}
+
+
+
+
+
+
+
+
